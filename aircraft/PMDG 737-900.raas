@@ -1,0 +1,12 @@
+{
+    "General": {
+        "PositionShiftMeters": 25,
+        "FlapsInhibit": "[L:switch_501_73X|double] == 0"
+    },
+    "SmartRunway": {
+        "TakeoffFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 1 && [S:FLAPS HANDLE INDEX|number] <= 6"
+    },
+    "SmartLanding": {
+        "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 7"
+    }
+}
