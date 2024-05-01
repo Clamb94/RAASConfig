@@ -4,9 +4,14 @@
         "FlapsInhibit": "[L:switch_501_73X|double] == 0"
     },
     "SmartRunway": {
-        "TakeoffFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 1 && [S:FLAPS HANDLE INDEX|number] <= 6"
+        "TakeoffFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 1 && [S:FLAPS HANDLE INDEX|number] <= 6",
+		"TodaCallMaxLength": 2000,
+		"TakeoffShortRunwayLength": 2000,
+		"LandingDistanceAvailableMaxM": 2000,
+		"ApproachShortRunwayCautionM": 2000
     },
     "SmartLanding": {
-        "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 7"
+        "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 7",
+        "ApproachSpeed": "[L:ngx_SPDwindow|double]"
     }
 }
