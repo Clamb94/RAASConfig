@@ -1,17 +1,35 @@
 {
-    "General": {
-        "PositionShiftMeters": 25,
-        "FlapsInhibit": "[L:switch_501_73X|double] == 0"
-    },
-    "SmartRunway": {
-        "TakeoffFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 1 && [S:FLAPS HANDLE INDEX|number] <= 6",
-		"TodaCallMaxLength": 2200,
-		"TakeoffShortRunwayLength": 2200,
-		"LandingDistanceAvailableMaxM": 2200,
-		"ApproachShortRunwayCautionM": 2200
-    },
-    "SmartLanding": {
-        "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 7",
-        "ApproachSpeed": "[L:ngx_SPDwindow|double]"
-    }
+  "General": {
+    "PositionShiftMeters": 25,
+    "FlapsInhibit": "[L:switch_501_73X|double] == 0"
+  },
+  "SmartRunway": {
+    "TakeoffFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 1 && [S:FLAPS HANDLE INDEX|number] <= 6",
+    "TodaCallMaxLength": 1900,
+    "TakeoffShortRunwayLength": 1900,
+    "LandingDistanceAvailableMaxM": 1900,
+    "ApproachShortRunwayCautionM": 1900
+  },
+  "SmartLanding": {
+    "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 7",
+    "ApproachSpeed": "[L:ngx_SPDwindow|double]"
+  },
+  "DisplayConfig": {
+    "Displays": [
+      {
+        "ID": "CPT_ND",
+        "PanelName": "VCockpit01",
+        "PosX": "26%",
+        "PosY": "75.1%",
+        "FontSize": 16
+      },
+      {
+        "ID": "FO_ND",
+        "PanelName": "VCockpit01",
+        "PosX": "76%",
+        "PosY": "25.1%",
+        "FontSize": 16
+      }
+    ]
+  }
 }
