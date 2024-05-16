@@ -17,18 +17,52 @@
   "DisplayConfig": {
     "Displays": [
       {
-        "ID": "CPT_ND",
+        "Enabled": false,
         "PanelName": "VCockpit01",
-        "PosX": "26%",
-        "PosY": "75.1%",
-        "FontSize": 16
+        "ID": "CPT_PFD",
+        "PosX": "22.1%",
+        "PosY": "39.1%",
+        "FontSize": 43,
+        "FontFamily": "Arial",
+        "CenterOnSpace": false,
+        "BrightnessVariable": "[L:switch_329_73X|double] / 3",
+        "OtherStyles": ""
       },
       {
-        "ID": "FO_ND",
+        "Enabled": true,
         "PanelName": "VCockpit01",
-        "PosX": "76%",
-        "PosY": "25.1%",
-        "FontSize": 16
+        "ID": "CPT_ND",
+        "PosX": "75.1%",
+        "PosY": "25.5%",
+        "FontSize": 80,
+        "FontFamily": "VCR_OSD_MONO",
+        "CenterOnSpace": true,
+        "BrightnessVariable": "[L:switch_330_73X|double] / 3",
+        "OtherStyles": ""
+      },
+      {
+        "Enabled": false,
+        "PanelName": "VCockpit01",
+        "ID": "FO_PFD",
+        "PosX": "72.2%",
+        "PosY": "89.1%",
+        "FontSize": 43,
+        "FontFamily": "Arial",
+        "CenterOnSpace": false,
+        "BrightnessVariable": "[L:switch_509_73X|double] / 3",
+        "OtherStyles": ""
+      },
+      {
+        "Enabled": true,
+        "PanelName": "VCockpit01",
+        "ID": "FO_ND",
+        "PosX": "25.1%",
+        "PosY": "75.5%",
+        "FontSize": 80,
+        "FontFamily": "VCR_OSD_MONO",
+        "CenterOnSpace": true,
+        "BrightnessVariable": "[L:switch_507_73X|double] / 3",
+        "OtherStyles": ""
       }
     ]
   }
