@@ -21,14 +21,14 @@
                 "PanelName": "VCockpit02",
                 "PosX": "50%",
                 "PosY": "50%",
-                "FontSize": 16
+                "FontSize": 80
             },
             {
                 "ID": "FO_ND",
                 "PanelName": "VCockpit06",
                 "PosX": "50%",
                 "PosY": "50%",
-                "FontSize": 16
+                "FontSize": 80
             }
         ]
     }
