@@ -12,7 +12,7 @@
   },
   "SmartLanding": {
     "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 7",
-    "ApproachSpeed": "[L:ngx_SPDwindow|double]"
+    "ApproachSpeed": "if([L:ngx_SPDwindow|double] > 0, [L:ngx_SPDwindow|double], [S:AIRSPEED INDICATED|knots])"
   },
   "DisplayConfig": {
     "Displays": [
