@@ -19,7 +19,7 @@
         "PanelName": "VCockpit02",
         "ID": "CPT+FO_ND",
         "PosX": "50%",
-        "PosY": "57%",
+        "PosY": "63%",
         "FontSize": 100,
         "FontFamily": "VCR_OSD_MONO",
         "CenterOnSpace": true,
