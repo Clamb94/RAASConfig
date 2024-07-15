@@ -5,10 +5,10 @@
   },
   "SmartRunway": {
     "TakeoffFlapsCondition": "[L:switch_507_a|double] >= 10 && [L:switch_507_a|double] <= 40",
-    "TodaCallMaxLength": 2500,
-    "TakeoffShortRunwayLength": 2200,
-    "LandingDistanceAvailableMaxM": 2500,
-    "ApproachShortRunwayCautionM": 2500
+    "TodaCallMaxLength": 2100,
+    "TakeoffShortRunwayLength": 2100,
+    "LandingDistanceAvailableMaxM": 2100,
+    "ApproachShortRunwayCautionM": 2100
   },
   "SmartLanding": {
     "LandingFlapsCondition": "[L:switch_507_a|double] >= 50",
