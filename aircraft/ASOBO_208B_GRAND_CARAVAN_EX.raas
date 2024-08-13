@@ -1,0 +1,21 @@
+{
+  "General": {},
+  "SmartRunway": {},
+  "SmartLanding": {},
+  "DisplayConfig": {
+    "Displays": [
+      {
+        "Enabled": true,
+        "PanelName": "VCockpit01",
+        "ID": "PFD",
+        "PosX": "45.0%",
+        "PosY": "29.6%",
+        "FontSize": 50,
+        "FontFamily": "VCR_OSD_MONO",
+        "CenterOnSpace": false,
+        "DisplayPower": "",
+        "OtherStyles": ""
+      }
+    ]
+  }
+}
