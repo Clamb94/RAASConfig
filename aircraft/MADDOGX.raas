@@ -1,7 +1,6 @@
 {
   "General": {
-    "PositionShiftMeters": 25,
-    "FlapsInhibit": "[L:switch_501_73X|double] == 0"
+    "PositionShiftMeters": 20
   },
   "SmartRunway": {
     "TakeoffFlapsCondition": "[L:esdp_to_adv1|double] > 0",
