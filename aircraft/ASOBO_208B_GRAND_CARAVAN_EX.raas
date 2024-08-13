@@ -11,9 +11,9 @@
         "PosX": "45.0%",
         "PosY": "29.6%",
         "FontSize": 50,
-        "FontFamily": "VCR_OSD_MONO",
+        "FontFamily": "Roboto-Regular",
         "CenterOnSpace": false,
-        "DisplayPower": "",
+        "DisplayPower": "[L:AS1000_PFD_State|double] > 0",
         "OtherStyles": ""
       }
     ]
