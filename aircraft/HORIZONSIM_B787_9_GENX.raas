@@ -13,7 +13,8 @@
         "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] >= 8",
         "ApproachSpeed": "[S:AUTOPILOT AIRSPEED HOLD VAR|knots]"
     },
-    "Displays": [
+    "DisplayConfig": {
+        "Displays": [
         {
             "Enabled": true,
             "PanelName": "VCockpit02",
@@ -37,4 +38,5 @@
             "OtherStyles": ""
         }
     ]
+    }
 }
