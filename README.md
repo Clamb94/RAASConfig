@@ -8,14 +8,23 @@ All functions behave **exactly** like the real ones and can be disabled if desir
 - Text Display on PFD/ND (see notes below)
 - No setup required
 - Auto-Updating
+- Auto-download of aircraft-specefic configurations
 - Female/Male voices
 - Fully customizeable
 - Auto-start and auto-close option
 - Minimize-to-tray and minimized-on-startup available
+- No measurable fps impact
+- Any windows sound output device selectable
+- Working self-test
 
 Limitations:
 - Text Display on PFD/ND is experimental and may get disabled/broken by future MSFS updates
 - Due to MSFS limitations, the **_TOO FAST_** callout is not available on all aircraft
+
+**MSFS 2024:**
+vRAAS has been tested with the MSFS 2024 Tech Alpha and everything worked fine.
+Until we can test the final version, we cannot gurantee that all vRAAS feature will be working in MSFS 2024.
+
 ## Available Callouts
 
 ### Ground Operations
