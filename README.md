@@ -5,7 +5,7 @@ All functions behave **exactly** like the real ones and can be disabled if desir
 
 - vRAAS works on all airports (including 3rd party add-ons)
 - vRAAS works with all aircraft
-- Text Display on PFD/ND
+- Text Display on PFD/ND (see notes below)
 - No setup required
 - Auto-Updating
 - Female/Male voices
@@ -13,6 +13,9 @@ All functions behave **exactly** like the real ones and can be disabled if desir
 - Auto-start and auto-close option
 - Minimize-to-tray and minimized-on-startup available
 
+Limitations:
+- Text Display on PFD/ND is experimental and may get disabled/broken by future MSFS updates
+- Due to MSFS limitations, the **_TOO FAST_** callout is not available on all aircraft
 ## Available Callouts
 
 ### Ground Operations
