@@ -35,15 +35,15 @@ On some aircraft, the 'too fast' call is not working, because the aircraft devel
 
 | Type                    	| RAAS Audio 	| RAAS Display 	| "TOO FAST" 	| NOTE 	|
 |-------------------------	|:----------:	|:------------:	|:----------:	|------	|
-| PMDG B737 (ALL)         	|      ✅     	|       ✅      	|      ✅     	|      	|
-| FENIX A319/320/321      	|      ✅     	|       ✅      	| ❌          	|      	|
-| FBW A320neo             	|      ✅     	|       ✅      	| ❌          	|      	|
+| FBW A320neo             	|      ✅     	|       ✅      	|      ❌     	|      	|
+| FENIX A319/320/321      	|      ✅     	|       ✅      	|      ❌     	|      	|
 | FSS E170/E175/E190/E195 	|      ✅     	|       ✅      	|      ✅     	|      	|
 | HORIZON B787            	|      ✅     	|       ✅      	|      ✅     	|      	|
+| INIBUILDS A306F         	|      ✅     	|       ✅      	|      ❌     	|      	|
 | LEONARDO MADDOX X       	|      ✅     	|       ✅      	|      ✅     	|      	|
-| MICROSOFT A310          	|      ✅     	|       ✅      	| ❌          	|      	|
-| INIBUILDS A306F         	|      ✅     	|       ✅      	| ❌          	|      	|
-| PROSIM B738             	|      ✅     	| ❌            	| ❌          	|      	|
+| MICROSOFT A310          	|      ✅     	|       ✅      	|      ❌     	|      	|
+| PMDG B737 (ALL)         	|      ✅     	|       ✅      	|      ✅     	|      	|
+| PROSIM B738             	|      ✅     	|       ❌      	|      ❌     	|      	|
 
 Are you missing your favourite aircraft? Feel free to send a request on our Discord!
 
