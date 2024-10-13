@@ -25,6 +25,26 @@ Limitations:
 vRAAS has been tested with the MSFS 2024 Tech Alpha and everything worked fine.
 Until we can test the final version, we cannot gurantee that all vRAAS feature will be working in MSFS 2024.
 
+## Aircraft compatiblity list
+
+Generally, vRAAS audio calls work with all aircraft, including 3rd party addons.
+However, some features require additional configuration or fine-tuning.
+The following aircraft will work perfectly without any configuration from your side.
+
+On some aircraft, the 'too fast' call is not working, because the aircraft developers do not provide public variables for the target approach speed. All other features are always working.
+
+| Type                    	| RAAS Audio 	| RAAS Display 	| "TOO FAST" 	| NOTE 	|
+|-------------------------	|:----------:	|:------------:	|:----------:	|------	|
+| PMDG B737 (ALL)         	|      ✅     	|       ✅      	|      ✅     	|      	|
+| FENIX A319/320/321      	|      ✅     	|       ✅      	| ❌          	|      	|
+| FBW A320neo             	|      ✅     	|       ✅      	| ❌          	|      	|
+| FSS E170/E175/E190/E195 	|      ✅     	|       ✅      	|      ✅     	|      	|
+| HORIZON B787            	|      ✅     	|       ✅      	|      ✅     	|      	|
+| LEONARDO MADDOX X       	|      ✅     	|       ✅      	|      ✅     	|      	|
+| MICROSOFT A310          	|      ✅     	|       ✅      	| ❌          	|      	|
+| INIBUILDS A306F         	|      ✅     	|       ✅      	| ❌          	|      	|
+| PROSIM B738             	|      ✅     	| ❌            	| ❌          	|      	|
+
 ## Available Callouts
 
 ### Ground Operations
