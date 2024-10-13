@@ -45,6 +45,8 @@ On some aircraft, the 'too fast' call is not working, because the aircraft devel
 | INIBUILDS A306F         	|      ✅     	|       ✅      	| ❌          	|      	|
 | PROSIM B738             	|      ✅     	| ❌            	| ❌          	|      	|
 
+Are you missing your favourite aircraft? Feel free to send a request on our Discord!
+
 ## Available Callouts
 
 ### Ground Operations
