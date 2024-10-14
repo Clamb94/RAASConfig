@@ -42,7 +42,7 @@ The following aircraft will work perfectly without any configuration from your s
 | FlightSimStudio FSS         | B727                       |      ✅     	|       ❌      |1) No displays to show vRAAS Text. |
 | Horizon Simulations         | B787                       |      ✅     	|       ✅      |      	|
 | IniBuilds A306F             | A306F                      |      ✅     	|       ✅      |1)      	|
-| iFly			              | 737-MAX8                   |      ⚠️     	|       ⚠️      |1) RAAS included in aircraft. vRAAS disabled by default.       	|
+| iFly			              | B737-MAX8                   |      ⚠️     	|       ⚠️      |1) RAAS included in aircraft. vRAAS disabled by default.       	|
 | Leonardo                    | MADDOX X                   |      ✅     	|       ✅      |      	|
 | LatinVFR                    | A330-900neo                |      ✅     	|       ✅      |1)      	|
 | Headwind Simulations        | A330neo					   |      ✅     	|       ✅      |      	|
