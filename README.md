@@ -44,6 +44,7 @@ The following aircraft will work perfectly without any configuration from your s
 | Asobo / Default             | B747-8i                    |      ✅     	|       ✅      	|      ❌     	|      	|
 | Asobo / Default             | A320neo                    |      ✅     	|       ✅      	|      ❌     	|      	|
 | Asobo / Default             | CJ4                        |      ✅     	|       ✅      	|      ❌     	|      	|
+| Asobo / Default             | Citation Longitude         |      ✅     	|       ✅      	|      ❌     	|      	|
 | Asobo / Default             | C208 Grand Caravan         |      ✅     	|       ✅      	|      ❌     	|      	|
 | PMDG                        | B737 (ALL VARIANTS)        |      ✅     	|       ✅      	|      ✅     	|      	|
 | PMDG                        | B777                       |      ✅     	|       ✅      	|      ✅     	|      	|

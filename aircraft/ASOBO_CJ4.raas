@@ -10,7 +10,7 @@
     "ApproachShortRunwayCautionM": 900
   },
   "SmartLanding": {
-    "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] == 1"
+    "LandingFlapsCondition": "[S:FLAPS HANDLE INDEX|number] == 2"
   },
   "SmartLanding": {},
   "DisplayConfig": {
