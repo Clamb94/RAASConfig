@@ -11,7 +11,7 @@
     "ApproachShortRunwayCautionM": 1900
   },
   "SmartLanding": {
-    "LandingFlapsCondition": "([S:FLAPS HANDLE INDEX|number] >= 4 && [L:A32NX_GPWS_FLAPS3|number]) || [S:FLAPS HANDLE INDEX|number] == 5",
+    "LandingFlapsCondition": "([S:FLAPS HANDLE INDEX|number] >= 4 && [L:A32NX_GPWS_FLAPS3|double]) || [S:FLAPS HANDLE INDEX|number] == 5",
     "ApproachSpeed": "[L:A32NX_SPEEDS_VLS|double]"
   },
   "DisplayConfig": {
