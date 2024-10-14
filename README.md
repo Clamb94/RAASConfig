@@ -31,19 +31,23 @@ Generally, vRAAS audio calls work with all aircraft, including 3rd party addons.
 However, some features require additional configuration or fine-tuning.
 The following aircraft will work perfectly without any configuration from your side.
 
-On some aircraft, the 'too fast' call is not working, because the aircraft developers do not provide public variables for the target approach speed. All other features are always working.
+Here's the table with the corrected indentation:
 
-| Type                    	| RAAS Audio 	| RAAS Display 	| "TOO FAST" 	| NOTE 	|
-|-------------------------	|:----------:	|:------------:	|:----------:	|------	|
-| FBW A320neo             	|      ✅     	|       ✅      	|      ❌     	|      	|
-| FENIX A319/320/321      	|      ✅     	|       ✅      	|      ❌     	|      	|
-| FSS E170/E175/E190/E195 	|      ✅     	|       ✅      	|      ✅     	|      	|
-| HORIZON B787            	|      ✅     	|       ✅      	|      ✅     	|      	|
-| INIBUILDS A306F         	|      ✅     	|       ✅      	|      ❌     	|      	|
-| LEONARDO MADDOX X       	|      ✅     	|       ✅      	|      ✅     	|      	|
-| MICROSOFT A310          	|      ✅     	|       ✅      	|      ❌     	|      	|
-| PMDG B737 (ALL)         	|      ✅     	|       ✅      	|      ✅     	|      	|
-| PROSIM B738             	|      ✅     	|       ❌      	|      ❌     	|      	|
+| Developer                 | Aircraft                   	| vRAAS Audio 	| vRAAS Display 	| "TOO FAST" 	| NOTE 	|
+|---------------------------|----------------------------|:----------:|:------------:|:----------:|------|
+| FlyByWire                   | A320neo                    |      ✅     	|       ✅      	|      ❌     	|      	|
+| Fenix                       | A319/A320/A321             |      ✅     	|       ✅      	|      ❌     	|      	|
+| FlightSimStudio FSS         | E170/E175/E190(F)/E195(F)  |      ✅     	|       ✅      	|      ✅     	|      	|
+| FlightSimStudio FSS         | B727                       |      ✅     	|       ❌      	|      ❌     	|No displays to show vRAAS Text|
+| Horizon Simulations         | B787                       |      ✅     	|       ✅      	|      ✅     	|      	|
+| IniBuilds A306F             | A306F                      |      ✅     	|       ✅      	|      ❌     	|      	|
+| Leonardo                    | MADDOX X                   |      ✅     	|       ✅      	|      ✅     	|      	|
+| MS/Default                  | A310                       |      ✅     	|       ✅      	|      ❌     	|      	|
+| PMDG                        | B737 (ALL VARIANTS)        |      ✅     	|       ✅      	|      ✅     	|      	|
+| PMDG                        | B777                       |      ✅     	|       ✅      	|      ✅     	|      	|
+| ProSim                      | B738                       |      ✅     	|       ❌      	|      ❌     	|vRAAS cannot access ProSim Display|
+
+Let me know if you'd like any further adjustments!
 
 Are you missing your favourite aircraft? Feel free to send a request on our Discord!
 
