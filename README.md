@@ -40,6 +40,8 @@ The following aircraft will work perfectly without any configuration from your s
 | Horizon Simulations         | B787                       |      ✅     	|       ✅      	|      ✅     	|      	|
 | IniBuilds A306F             | A306F                      |      ✅     	|       ✅      	|      ❌     	|      	|
 | Leonardo                    | MADDOX X                   |      ✅     	|       ✅      	|      ✅     	|      	|
+| LatinVFR                    | A330-900neo                |      ✅     	|       ✅      	|      ❌     	|      	|
+| Headwind Simulations        | A330neo					   |      ✅     	|       ✅      	|      ✅     	|      	|
 | Microsoft / Default         | A310                       |      ✅     	|       ✅      	|      ❌     	|      	|
 | Asobo / Default             | B747-8i                    |      ✅     	|       ✅      	|      ❌     	|      	|
 | Asobo / Default             | A320neo                    |      ✅     	|       ✅      	|      ❌     	|      	|
