@@ -53,7 +53,7 @@ The following aircraft will work perfectly without any configuration from your s
 | PMDG                        | B777                       |      ✅     	|       ✅      	|      ✅     	|      	|
 | ProSim                      | B738                       |      ✅     	|       ❌      	|      ❌     	|vRAAS cannot access ProSim Display|
 
-Are you missing your favourite aircraft? Feel free to send a request on our Discord!
+Your favourite aircraft is not listed? Feel free to send a request on our Discord!
 
 ## Available Callouts
 
