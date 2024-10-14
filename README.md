@@ -19,7 +19,7 @@ All functions behave **exactly** like the real ones and can be disabled if desir
 
 Limitations:
 - Text Display on PFD/ND is experimental and may get disabled/broken by future MSFS updates
-- Due to MSFS limitations, the **_TOO FAST_** callout is not available on all aircraft
+- Due to MSFS limitations, the **_TOO FAST_** callout is only available on some aircraft
 
 **MSFS 2024:**
 vRAAS has been tested with the MSFS 2024 Tech Alpha and everything worked fine.
@@ -40,7 +40,11 @@ The following aircraft will work perfectly without any configuration from your s
 | Horizon Simulations         | B787                       |      ✅     	|       ✅      	|      ✅     	|      	|
 | IniBuilds A306F             | A306F                      |      ✅     	|       ✅      	|      ❌     	|      	|
 | Leonardo                    | MADDOX X                   |      ✅     	|       ✅      	|      ✅     	|      	|
-| MS/Default                  | A310                       |      ✅     	|       ✅      	|      ❌     	|      	|
+| Microsoft / Default         | A310                       |      ✅     	|       ✅      	|      ❌     	|      	|
+| Asobo / Default             | B747-8i                    |      ✅     	|       ✅      	|      ❌     	|      	|
+| Asobo / Default             | A320neo                    |      ✅     	|       ✅      	|      ❌     	|      	|
+| Asobo / Default             | CJ4                        |      ✅     	|       ✅      	|      ❌     	|      	|
+| Asobo / Default             | C208 Grand Caravan         |      ✅     	|       ✅      	|      ❌     	|      	|
 | PMDG                        | B737 (ALL VARIANTS)        |      ✅     	|       ✅      	|      ✅     	|      	|
 | PMDG                        | B777                       |      ✅     	|       ✅      	|      ✅     	|      	|
 | ProSim                      | B738                       |      ✅     	|       ❌      	|      ❌     	|vRAAS cannot access ProSim Display|
