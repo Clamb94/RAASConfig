@@ -31,8 +31,6 @@ Generally, vRAAS audio calls work with all aircraft, including 3rd party addons.
 However, some features require additional configuration or fine-tuning.
 The following aircraft will work perfectly without any configuration from your side.
 
-Here's the table with the corrected indentation:
-
 | Developer                 | Aircraft                   	| vRAAS Audio 	| vRAAS Display 	| "TOO FAST" 	| NOTE 	|
 |---------------------------|----------------------------|:----------:|:------------:|:----------:|------|
 | FlyByWire                   | A320neo                    |      ✅     	|       ✅      	|      ❌     	|      	|
@@ -46,8 +44,6 @@ Here's the table with the corrected indentation:
 | PMDG                        | B737 (ALL VARIANTS)        |      ✅     	|       ✅      	|      ✅     	|      	|
 | PMDG                        | B777                       |      ✅     	|       ✅      	|      ✅     	|      	|
 | ProSim                      | B738                       |      ✅     	|       ❌      	|      ❌     	|vRAAS cannot access ProSim Display|
-
-Let me know if you'd like any further adjustments!
 
 Are you missing your favourite aircraft? Feel free to send a request on our Discord!
 
