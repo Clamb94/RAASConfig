@@ -31,27 +31,32 @@ Generally, vRAAS audio calls work with all aircraft, including 3rd party addons.
 However, some features require additional configuration or fine-tuning.
 The following aircraft will work perfectly without any configuration from your side.
 
-| Developer                 | Aircraft                   	| vRAAS Audio 	| vRAAS Display 	| "TOO FAST" 	| NOTE 	|
-|---------------------------|----------------------------|:----------:|:------------:|:----------:|------|
-| FlyByWire                   | A320neo                    |      ✅     	|       ✅      	|      ❌     	|      	|
-| Fenix                       | A319/A320/A321             |      ✅     	|       ✅      	|      ❌     	|      	|
-| FlightSimStudio FSS         | E170/E175/E190(F)/E195(F)  |      ✅     	|       ✅      	|      ✅     	|      	|
-| FlightSimStudio FSS         | B727                       |      ✅     	|       ❌      	|      ❌     	|No displays to show vRAAS Text|
-| Horizon Simulations         | B787                       |      ✅     	|       ✅      	|      ✅     	|      	|
-| IniBuilds A306F             | A306F                      |      ✅     	|       ✅      	|      ❌     	|      	|
-| iFly			              | 737-MAX8                   |      ⚠️     	|       ⚠️      	|      ❌     	|RAAS included in aircraft. vRAAS disabled by default      	|
-| Leonardo                    | MADDOX X                   |      ✅     	|       ✅      	|      ✅     	|      	|
-| LatinVFR                    | A330-900neo                |      ✅     	|       ✅      	|      ❌     	|      	|
-| Headwind Simulations        | A330neo					   |      ✅     	|       ✅      	|      ✅     	|      	|
-| Microsoft / Default         | A310                       |      ✅     	|       ✅      	|      ❌     	|      	|
-| Asobo / Default             | B747-8i                    |      ✅     	|       ✅      	|      ❌     	|      	|
-| Asobo / Default             | A320neo                    |      ✅     	|       ✅      	|      ❌     	|      	|
-| Asobo / Default             | CJ4                        |      ✅     	|       ✅      	|      ❌     	|      	|
-| Asobo / Default             | Citation Longitude         |      ✅     	|       ✅      	|      ❌     	|      	|
-| Asobo / Default             | C208 Grand Caravan         |      ✅     	|       ✅      	|      ❌     	|      	|
-| PMDG                        | B737 (ALL VARIANTS)        |      ✅     	|       ✅      	|      ✅     	|      	|
-| PMDG                        | B777                       |      ✅     	|       ✅      	|      ✅     	|      	|
-| ProSim                      | B738                       |      ✅     	|       ❌      	|      ❌     	|vRAAS cannot access ProSim Display|
+**vRAAS Audio**: Audio calls, generally available for all aircraft
+**vRAAS Display**: In-Game RAAS text messages displayed on PFD or ND 
+
+| Developer                 | Aircraft                   	| vRAAS Audio 	| vRAAS Display | NOTE 	|
+|---------------------------|----------------------------|:----------:|:------------:|------|
+| FlyByWire                   | A320neo                    |      ✅     	|       ✅      |1)      	|
+| Fenix                       | A319/A320/A321             |      ✅     	|       ✅      |1)      	|
+| FlightSimStudio FSS         | E170/E175/E190(F)/E195(F)  |      ✅     	|       ✅      |      	|
+| FlightSimStudio FSS         | B727                       |      ✅     	|       ❌      |1) No displays to show vRAAS Text. |
+| Horizon Simulations         | B787                       |      ✅     	|       ✅      |      	|
+| IniBuilds A306F             | A306F                      |      ✅     	|       ✅      |1)      	|
+| iFly			              | 737-MAX8                   |      ⚠️     	|       ⚠️      |1) RAAS included in aircraft. vRAAS disabled by default.       	|
+| Leonardo                    | MADDOX X                   |      ✅     	|       ✅      |      	|
+| LatinVFR                    | A330-900neo                |      ✅     	|       ✅      |1)      	|
+| Headwind Simulations        | A330neo					   |      ✅     	|       ✅      |      	|
+| Microsoft / Default         | A310                       |      ✅     	|       ✅      |1)      	|
+| Asobo / Default             | B747-8i                    |      ✅     	|       ✅      |1)      	|
+| Asobo / Default             | A320neo                    |      ✅     	|       ✅      |1)      	|
+| Asobo / Default             | CJ4                        |      ✅     	|       ✅      |1)      	|
+| Asobo / Default             | Citation Longitude         |      ✅     	|       ✅      |1)      	|
+| Asobo / Default             | C208 Grand Caravan         |      ✅     	|       ✅      |1)      	|
+| PMDG                        | B737 (ALL VARIANTS)        |      ✅     	|       ✅      |      	|
+| PMDG                        | B777                       |      ✅     	|       ✅      |      	|
+| ProSim                      | B738                       |      ✅     	|       ❌      |1) vRAAS cannot access ProSim Display. |
+
+1) **_TOO FAST_** callout during approach is currently not available for this aircraft due to missing data from add-on.
 
 Your favourite aircraft is not listed? Feel free to send a request on our Discord!
 
