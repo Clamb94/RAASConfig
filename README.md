@@ -144,3 +144,12 @@ Your favourite aircraft is not listed? Feel free to send a request on our Discor
 21. **Altimeter Setting (Climb + Descend)**  
     Warns if the altimeter is not set properly.  
     **_“ALTIMETER SETTING”_**
+
+## FAQ
+### Activation / Serial 
+**Is an active internet connection required?**
+Internet connection is required to activate the product on first launch.
+
+### General
+//TODO
+
