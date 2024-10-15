@@ -3,13 +3,13 @@
 Our vRAAS system provides runway awareness and advisory features similar to real-world systems.  
 All functions behave **exactly** like the real ones and can be disabled if desired.
 
-- vRAAS works on all airports (including 3rd party add-ons)
-- vRAAS works with all aircraft
+- All airports supported, including addon-airports
+- All aircraft types, no setup required
 - Text Display on PFD/ND (see notes below)
 - No setup required
 - Auto-Updating
 - Auto-download of aircraft-specefic configurations
-- Female/Male voices
+- Multiple Female/Male voices
 - Fully customizeable
 - Auto-start and auto-close option
 - Minimize-to-tray and minimized-on-startup available
@@ -147,9 +147,10 @@ Your favourite aircraft is not listed? Feel free to send a request on our Discor
 
 ## FAQ
 ### Activation / Serial 
-**Is an active internet connection required?**
+###### Is an active internet connection required? 
 Internet connection is required to activate the product on first launch.
 
 ### General
-//TODO
-
+###### Do I have to launch it manually each time I want to fly? 
+The vRAAS process needs to be running for RAAS to work, but there is an auto-start option available in the general settings tab.  
+You can also select the _Minimize to tray_ , _Start minimized_ and _auto-close_ options. That way, you'll not need to interact with the vRAAS window at all.
