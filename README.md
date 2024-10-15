@@ -42,10 +42,10 @@ The following aircraft will work perfectly without any configuration from your s
 | FlightSimStudio FSS         | B727                       |      ✅     	|       ❌      |1) No displays to show vRAAS Text. |
 | Horizon Simulations         | B787                       |      ✅     	|       ✅      |      	|
 | IniBuilds A306F             | A306F                      |      ✅     	|       ✅      |1)      	|
-| iFly			              | B737-MAX8                   |      ⚠️     	|       ⚠️      |1) RAAS included in aircraft. vRAAS disabled by default.       	|
+| iFly			               | B737-MAX8                  |      ⚠️     	|       ⚠️      |1) RAAS included in aircraft. vRAAS disabled by default.       	|
 | Leonardo                    | MADDOX X                   |      ✅     	|       ✅      |      	|
 | LatinVFR                    | A330-900neo                |      ✅     	|       ✅      |1)      	|
-| Headwind Simulations        | A330neo					   |      ✅     	|       ✅      |      	|
+| Headwind Simulations        | A330neo					     |      ✅     	|       ✅      |      	|
 | Microsoft / Default         | A310                       |      ✅     	|       ✅      |1)      	|
 | Asobo / Default             | B747-8i                    |      ✅     	|       ✅      |1)      	|
 | Asobo / Default             | A320neo                    |      ✅     	|       ✅      |1)      	|
@@ -154,3 +154,7 @@ Internet connection is required to activate the product on first launch.
 ###### Do I have to launch it manually each time I want to fly? 
 The vRAAS process needs to be running for RAAS to work, but there is an auto-start option available in the general settings tab.  
 You can also select the _Minimize to tray_ , _Start minimized_ and _auto-close_ options. That way, you'll not need to interact with the vRAAS window at all.
+
+###### Does vRAAS reduce the fps?
+We could not measure any reduction in fps.  
+There have no reports of any performance issues.
