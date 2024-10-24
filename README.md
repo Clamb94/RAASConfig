@@ -1,29 +1,30 @@
 ## vRAAS for MSFS
 
-Our vRAAS system provides runway awareness and advisory features similar to real-world systems.  
-All functions behave **exactly** like the real ones and can be disabled if desired.
+Enhance your flight simulation experience with **vRAAS**, a virtual Runway Awareness and Advisory System designed to replicate the functionality of real-world systems, delivering runway alerts and advisories directly within MSFS. Every feature operates **exactly** like its real counterpart and can be easily customized or disabled to suit your preferences.
 
-- All airports supported, including addon-airports
-- All aircraft types, no setup required
-- Text Display on PFD/ND (see notes below)
-- No setup required
-- Auto-Updating
-- Auto-download of aircraft-specefic configurations
-- Multiple Female/Male voices
-- Fully customizeable
-- Auto-start and auto-close option
-- Minimize-to-tray and minimized-on-startup available
-- No measurable fps impact
-- Any windows sound output device selectable
-- Working self-test
+### Key Features:
 
-Limitations:
-- Text Display on PFD/ND is experimental and may get disabled/broken by future MSFS updates
-- Due to MSFS limitations, the **_TOO FAST_** callout is only available on some aircraft
+- **Full Compatibility**: Works seamlessly with all airports, including add-ons, and supports all aircraft types—no configuration required.
+- **In-Sim Text Display**: Displays alerts on the PFD/ND (see limitations below).
+- **Effortless Setup**: No manual setup needed—simply install and fly.
+- **Auto-Updating**: Stay up-to-date with automatic software and configuration updates.
+- **Aircraft-Specific Configurations**: Automatically downloads aircraft-specific settings.
+- **Multiple Voice Options**: Choose from male or female voice callouts for a personalized experience.
+- **Highly Customizable**: Tailor the system settings to your preferences with ease.
+- **Convenient Automation**: Includes options for auto-start, auto-close, and minimize-to-tray functionality.
+- **Minimal Performance Impact**: Enjoy realistic alerts with no noticeable effect on FPS.
+- **Flexible Audio**: Select any Windows sound output device for audio alerts.
+- **Built-in Self-Test**: Ensure functionality with a reliable self-test feature.
 
-**MSFS 2024:**
-vRAAS has been tested with the MSFS 2024 Tech Alpha and everything worked fine.
-Until we can test the final version, we cannot gurantee that all vRAAS feature will be working in MSFS 2024.
+### Known Limitations:
+
+- **Experimental PFD/ND Text Display**: The text display on the PFD/ND is currently experimental and may be affected by future MSFS updates.
+- **_TOO FAST_ Callout Limitations**: Due to MSFS constraints, the _TOO FAST_ warning is only supported on certain aircraft.
+
+### Compatibility with MSFS 2024:
+
+vRAAS has been tested with the MSFS 2024 Tech Alpha, and all features performed as expected. However, until the final version is available, we cannot guarantee full compatibility with MSFS 2024.
+
 
 ## Aircraft compatiblity list
 
@@ -39,10 +40,10 @@ The following aircraft will work perfectly without any configuration from your s
 | FlyByWire                   | A320neo                    |      ✅     	|       ✅      |1)      	|
 | Fenix                       | A319/A320/A321             |      ✅     	|       ✅      |1)      	|
 | FlightSimStudio FSS         | E170/E175/E190(F)/E195(F)  |      ✅     	|       ✅      |      	|
-| FlightSimStudio FSS         | B727                       |      ✅     	|       ❌      |1) No displays to show vRAAS Text. |
+| FlightSimStudio FSS         | B727                       |      ✅     	|       ❌      |1)  No displays to show vRAAS Text. |
 | Horizon Simulations         | B787                       |      ✅     	|       ✅      |      	|
 | IniBuilds A306F             | A306F                      |      ✅     	|       ✅      |1)      	|
-| iFly			               | B737-MAX8                  |      ⚠️     	|       ⚠️      |1) RAAS included in aircraft. vRAAS disabled by default.       	|
+| iFly			               | B737-MAX8                  |      ⚠️     	|       ⚠️      |1)  RAAS included in aircraft. vRAAS disabled by default.       	|
 | Leonardo                    | MADDOX X                   |      ✅     	|       ✅      |      	|
 | LatinVFR                    | A330-900neo                |      ✅     	|       ✅      |1)      	|
 | Headwind Simulations        | A330neo					     |      ✅     	|       ✅      |      	|
@@ -54,7 +55,7 @@ The following aircraft will work perfectly without any configuration from your s
 | Asobo / Default             | C208 Grand Caravan         |      ✅     	|       ✅      |1)      	|
 | PMDG                        | B737 (ALL VARIANTS)        |      ✅     	|       ✅      |      	|
 | PMDG                        | B777                       |      ✅     	|       ✅      |      	|
-| ProSim                      | B738                       |      ✅     	|       ❌      |1) vRAAS cannot access ProSim Display. |
+| ProSim                      | B738                       |      ✅     	|       ❌      |1)  vRAAS cannot access ProSim Display. |
 
 1\) **_TOO FAST_** callout during approach is currently not available for this aircraft due to missing data from add-on.
 
