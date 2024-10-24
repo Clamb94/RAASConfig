@@ -64,7 +64,7 @@ Your favourite aircraft is not listed? Feel free to send a request on our Discor
 ## Available Callouts
 
 0. **Self Test**  
-   Checks if vRAAS is working properly and announces unit used for distance calls
+   Checks if vRAAS is working properly and announces unit used for distance calls  
    **_“RUNWAY AWARESS OKAY - METER / FEET”_**
 
 ### Ground Operations
