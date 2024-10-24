@@ -12,7 +12,7 @@ Enhance your flight simulation experience with **vRAAS**, a virtual Runway Aware
 - **Multiple Voice Options**: Choose from male or female voice callouts for a personalized experience.
 - **Highly Customizable**: Tailor the system settings to your preferences with ease.
 - **Convenient Automation**: Includes options for auto-start, auto-close, and minimize-to-tray functionality.
-- **Minimal Performance Impact**: Enjoy realistic alerts with no noticeable effect on FPS.
+- **No Performance Impact**: Enjoy realistic alerts with no noticeable effect on FPS.
 - **Flexible Audio**: Select any Windows sound output device for audio alerts.
 - **Built-in Self-Test**: Ensure functionality with a reliable self-test feature.
 
