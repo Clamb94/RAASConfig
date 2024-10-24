@@ -88,7 +88,7 @@ Your favourite aircraft is not listed? Feel free to send a request on our Discor
    Alerts when the remaining runway length is shorter that the nominal runway length.  
    **_“SHORT RUNWAY! SHORT RUNWAY!”_**
 
-7. **Distance Remaining (Reject Takeoff)**  
+7. **Distance Remaining (Rejected Takeoff)**  
    Announces runway distance remaining after a rejected takeoff.  
    **_“1500 ... 1200 ... 900 ...”_** (meters or feet)
 
