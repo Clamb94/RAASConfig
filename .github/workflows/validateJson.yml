@@ -19,14 +19,14 @@ jobs:
     - name: Set up Node.js environment
       uses: actions/setup-node@v3
       with:
-        node-version: '16' # or any other version you prefer
+        node-version: '16'
 
     - name: Install jq (for JSON validation)
       run: sudo apt-get install jq -y
 
     - name: Find and validate all .raas files
       run: |
-        for file in $(find ./aircraft -name '*.raas'); do
+        find ./aircraft -name '*.raas' -print0 | while IFS= read -r -d '' file; do
           echo "Validating $file..."
           if ! jq empty "$file"; then
             echo "::error file=$file::Invalid JSON format"
